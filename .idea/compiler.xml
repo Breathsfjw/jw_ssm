@@ -7,10 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="jw_ssm_dao" />
-        <module name="jw_ssm_domain" />
+        <module name="jw_ssm_utils" />
         <module name="jw_ssm_service" />
         <module name="jw_ssm_web" />
-        <module name="jw_ssm_utils" />
+        <module name="jw_ssm_domain" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
